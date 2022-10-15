@@ -13,7 +13,7 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
  📫 You can reach me on kartikeymishr@hotmail.com
  
- [![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikeymishr&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikeymishr&show_icons=true&theme=material-palenight)](https://github.com/kartikeymishr)
 
 <!---
 kartikeymishr/kartikeymishr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
