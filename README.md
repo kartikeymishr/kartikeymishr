@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 
+<!---
 <a href="https://www.hackerrank.com/kartikeymishr/">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -15,7 +16,7 @@
 <a href="https://leetcode.com/kartikeymishr/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>&nbsp;&nbsp;
-
+--->
 <br/><br/>
 
 [![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikeymishr&show_icons=true&theme=material-palenight)](https://github.com/kartikeymishr)
