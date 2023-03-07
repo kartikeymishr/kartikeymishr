@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikey Mishr</h1>
-<h3 align="center">Full Stack Software Engineer at 👁🐝Ⓜ</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 <p align="center">💻  Currently working as a Full Stack Developer with Java & Spring Boot + React & Redux  <br><br> <a href="https://www.linkedin.com/in/kartikeymishr/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  </p> 
