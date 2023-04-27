@@ -42,7 +42,7 @@
 
 - 👨‍💻 **Full Stack Developer**\
 📆 2018 - feb/2023\
-📍 **IBM India Pvt. Ltd.** - Bangalore, KA, India
+📍 **IBM** - Bangalore, KA, India
 
 </details>
 
