@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartikey Mishr</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
-<p align="center">💻  Currently working as a Full Stack Developer with Java & Spring Boot + React & Redux  <br><br> <a href="https://www.linkedin.com/in/kartikeymishr/">
+<p align="center">💻  Working as a Full Stack Developer at McKinsey <br><br> <a href="https://www.linkedin.com/in/kartikeymishr/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  </p> 
 
@@ -32,14 +32,16 @@
 <img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 - 👨‍💻 **Full Stack Developer**\
-📆 2020 - current\
-📍 **IBM India Pvt. Ltd.** - Noida, UP, India
+📆 feb/2023 - current\
+📍 **McKinsey & Company** - Gurgaon, HR, India
 
 <img align="right" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+<img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-- 👨‍💻 **Cloud Microservices Developer**\
-📆 2018 - nov/2020\
+- 👨‍💻 **Full Stack Developer**\
+📆 2018 - feb/2023\
 📍 **IBM India Pvt. Ltd.** - Bangalore, KA, India
 
 </details>
