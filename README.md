@@ -56,12 +56,3 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%202060%20Super-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
----
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikeymishr&show_icons=true&theme=synthwave&locale=en" alt="kartikeymishr" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeymishr&theme=synthwave" alt="kartikeymishr" /></p> 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeymishr&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="kartikeymishr" /></p>
-
-
